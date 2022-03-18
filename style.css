@@ -1,0 +1,29 @@
+.stage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  margin: 10em 0 0 0;
+}
+
+.dbutton {
+  height: 5em;
+  width: 5em;
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  /* padding: 12em 0 0 31em; */
+}
+
+.drumbut {
+  height: 5em;
+  width: 5em;
+}
